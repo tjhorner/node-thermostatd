@@ -1,0 +1,13 @@
+{
+  "name": "thermostatd",
+  "version": "1.0.3",
+  "description": "Thermostatd client for Node.js",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "author": "TJ Horner <me@tjhorner.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "querystring": "^0.2.0"
+  }
+}
